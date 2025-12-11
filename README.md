@@ -33,6 +33,7 @@ rag-engine-core/
 │
 ├── notebooks/
 │   └── semantic_rag_pipeline.ipynb        #  full notebook
+│   └── cleaned_rag_pipeline.ipynb  # clean version fir GitHub 
 │
 ├── src/
 │   ├── loader.py                 # handle PDFs, CSV, JSONL
