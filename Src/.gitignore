@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional: if large, you can keep them out of Git)
+data/*.pdf
+data/*.csv
+data/*.jsonl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyTorch / FAISS cache (optional)
+*.pt
+*.index
