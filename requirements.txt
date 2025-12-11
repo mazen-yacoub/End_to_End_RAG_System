@@ -1,0 +1,14 @@
+# Document handling
+pypdf==6.4.1
+pandas==2.2.2
+
+# Embedding and semantic search
+sentence-transformers==5.1.2
+faiss-cpu==1.13.1
+torch==2.9.0
+
+# LLM generation
+transformers==4.57.3
+
+# Optional helpers
+numpy==2.0.2
