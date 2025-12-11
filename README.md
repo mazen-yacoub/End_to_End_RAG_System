@@ -47,6 +47,37 @@ rag-engine-core/
 
 ---
 
+### 📄 Data Source
+
+For this experiment, the source of our knowledge base was a **PDF lecture on Big Data** from my college course.
+
+
+
+### ❓ Query
+
+I asked the LLM:
+
+> "What are the characteristics of Big Data?"
+
+
+
+### 🤖 Output
+
+The model generated the following response:
+
+<img width="1495" height="265" alt="image" src="https://github.com/user-attachments/assets/eedd994a-fd92-41a6-9acf-70b6045b7e1d" />
+
+
+
+### 📝 Notes
+
+- The PDF was processed into small text chunks to serve as a RAG knowledge base.  
+- Semantic search was used to retrieve relevant chunks before generating the answer.  
+- This demonstrates how a PDF lecture can be converted into an interactive knowledge source for queries.
+
+
+---
+
 ## Install dependencies:
 
 ```bash
